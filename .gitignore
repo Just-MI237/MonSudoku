@@ -1,0 +1,28 @@
+# ============================================================================
+# .gitignore
+# Fichiers à ignorer par Git
+# ============================================================================
+
+# Exécutable compilé
+sudoku
+
+# Fichiers objets
+*.o
+*.obj
+
+# Exécutables Windows
+*.exe
+
+# Dossier de build
+build/
+
+# Configuration VS Code
+.vscode/
+
+# Fichiers temporaires
+*~
+*.swp
+*.swo
+
+# Fichiers de log
+*.log
