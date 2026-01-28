@@ -1,8 +1,8 @@
-# 🎮 SUDOKU - Just Max It, Everyday
+#  SUDOKU - Just Max It, Everyday
 
 Projet Sudoku réalisé en C++ avec SDL3 et ImGui dans le cadre du cours de Game Programming.
 
-## 📋 Description
+##  Description
 
 Un jeu de Sudoku complet avec :
 - Splash screen animé "JUST MAX IT, Everyday"
@@ -11,7 +11,7 @@ Un jeu de Sudoku complet avec :
 - Vérification des règles du Sudoku
 - Détection de victoire
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 - **Langage** : C++17
 - **Bibliothèque graphique** : SDL3
@@ -19,28 +19,28 @@ Un jeu de Sudoku complet avec :
 - **Compilateur** : Clang++
 - **Système** : Ubuntu 22.04 (WSL2)
 
-## 📦 Prérequis
+##  Prérequis
 
 - Ubuntu 22.04 (ou WSL2)
 - SDL3 installé
 - Clang++ installé
 - Python 3 (pour le script de build)
 
-## 🚀 Compilation
+##  Compilation
 
 Pour compiler le projet :
 ```bash
 python3 build.py
 ```
 
-## ▶️ Lancement
+##  Lancement
 
 Pour lancer le jeu :
 ```bash
 ./sudoku
 ```
 
-## 🎮 Contrôles
+##  Contrôles
 
 - **Clic gauche** : Sélectionner une case
 - **1-9** : Placer un chiffre
@@ -49,27 +49,27 @@ Pour lancer le jeu :
 - **R** : Réinitialiser la grille
 - **Échap** : Quitter le jeu
 
-## 📚 Règles du Sudoku
+##  Règles du Sudoku
 
 - Chaque ligne doit contenir les chiffres 1-9 une seule fois
 - Chaque colonne doit contenir les chiffres 1-9 une seule fois
 - Chaque carré 3x3 doit contenir les chiffres 1-9 une seule fois
 
-## 🎨 Légende des couleurs
+##  Légende des couleurs
 
 - **Noir** : Cases initiales (non modifiables)
 - **Bleu** : Chiffres placés par le joueur
 - **Bleu clair** : Case sélectionnée
 - **Bleu très clair** : Ligne, colonne et carré 3x3 surlignés
 
-## 👨‍💻 Auteur
+##  Auteur
 
 Vivien Yann Nka - École Nationale Supérieure Polytechnique de Yaoundé 1 - ANI 1 - 25P913
 
-## 📅 Date
+##  Date
 
 Janvier 2026
 
-## 📄 Licence
+##  Licence
 
 Projet académique - Cours de Game Programming

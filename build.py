@@ -2,7 +2,7 @@
 # ============================================================================
 # build.py
 # Script de compilation automatique pour le projet Sudoku
-# Auteur: [Ton Nom]
+# Auteur: [Vivien Yann Nka]
 # Date: Janvier 2026
 # ============================================================================
 
